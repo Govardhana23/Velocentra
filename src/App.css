@@ -26,6 +26,14 @@
     gap: 12px;
 }
 
+.logo-img {
+    width: 44px;
+    height: 44px;
+    border-radius: 10px;
+    object-fit: contain;
+    filter: drop-shadow(0 0 8px rgba(99, 102, 241, 0.4));
+}
+
 .dashboard-header .logo h1 {
     font-size: 1.5rem;
     font-weight: 800;
