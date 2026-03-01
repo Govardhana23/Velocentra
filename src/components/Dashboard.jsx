@@ -55,6 +55,10 @@ export default function Dashboard({
             <header className="dashboard-header glass-card-strong">
                 <div className="logo">
                     <img src={`${import.meta.env.BASE_URL}logo.png`} alt="Velocentra OS" className="logo-img" />
+                    <div>
+                        <h1>Velocentra</h1>
+                        <div className="tagline">Intelligent Attention Orchestration System</div>
+                    </div>
                 </div>
                 <div className="header-status">
                     <div className="privacy-badge">
