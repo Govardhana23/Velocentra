@@ -27,11 +27,10 @@
 }
 
 .logo-img {
-    width: 44px;
-    height: 44px;
-    border-radius: 10px;
+    height: 48px;
+    width: auto;
     object-fit: contain;
-    filter: drop-shadow(0 0 8px rgba(99, 102, 241, 0.4));
+    filter: drop-shadow(0 0 10px rgba(99, 102, 241, 0.5));
 }
 
 .dashboard-header .logo h1 {
